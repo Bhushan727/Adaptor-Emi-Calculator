@@ -1,0 +1,16 @@
+
+.heading{
+    width: 100%;
+    height: 7vh;
+    background-color: cyan;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 50px;
+}
+
+.heading>button{
+    padding: 14px 50px;
+    border-radius: 12px;
+    cursor: pointer;
+}
